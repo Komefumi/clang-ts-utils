@@ -1,0 +1,17 @@
+{
+  "name": "clang-ts-utils",
+  "version": "0.0.1",
+  "description": "a set of utility functions and other tools to make life easier, written in typescript",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils", "functions", "typescript", "convenience"],
+  "author": "Komefumi <komefumi@protonmail.ch>",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^16.11.12",
+    "prettier": "^2.5.1"
+  }
+}
