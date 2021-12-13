@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/node16",
+  "compilerOptions": {
+    "types": ["node"],
+    "target": "ES5",
+    "module": "CommonJS",
+    "lib": ["ESNext"],
+    "esModuleInterop": true,
+    "outDir": "./lib",
+    "declaration": true
+  }
+}
